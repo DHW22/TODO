@@ -1,7 +1,5 @@
 # TODO
 
-# Todo
-
 **Todo** is a mobile application powered by React Native designed to elevate productivity and organization levels through a secure and intuitive task management system. Leveraging biometric authentication, real-time location services, and image attachment capabilities for tasks, Todo transcends conventional task management to aid in streamlining daily activities more effectively and securely.
 
 ## Key Features
